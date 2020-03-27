@@ -1,0 +1,9 @@
+C:\Users\Positivo\source\repos\CrudsComCsharp\CrudsComCsharp\bin\Debug\CrudsComCsharp.exe.config
+C:\Users\Positivo\source\repos\CrudsComCsharp\CrudsComCsharp\bin\Debug\CrudsComCsharp.exe
+C:\Users\Positivo\source\repos\CrudsComCsharp\CrudsComCsharp\bin\Debug\CrudsComCsharp.pdb
+C:\Users\Positivo\source\repos\CrudsComCsharp\CrudsComCsharp\obj\Debug\CrudsComCsharp.csprojAssemblyReference.cache
+C:\Users\Positivo\source\repos\CrudsComCsharp\CrudsComCsharp\obj\Debug\CrudsComCsharp.Properties.Resources.resources
+C:\Users\Positivo\source\repos\CrudsComCsharp\CrudsComCsharp\obj\Debug\CrudsComCsharp.csproj.GenerateResource.cache
+C:\Users\Positivo\source\repos\CrudsComCsharp\CrudsComCsharp\obj\Debug\CrudsComCsharp.exe
+C:\Users\Positivo\source\repos\CrudsComCsharp\CrudsComCsharp\obj\Debug\CrudsComCsharp.pdb
+C:\Users\Positivo\source\repos\CrudsComCsharp\CrudsComCsharp\obj\Debug\CrudsComCsharp.Cadastro.resources
