@@ -1,0 +1,6 @@
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula10 - Array\Aula10 - Array\bin\Debug\Aula10 - Array.exe.config
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula10 - Array\Aula10 - Array\bin\Debug\Aula10 - Array.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula10 - Array\Aula10 - Array\bin\Debug\Aula10 - Array.pdb
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula10 - Array\Aula10 - Array\obj\Debug\Aula10 - Array.csproj.CoreCompileInputs.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula10 - Array\Aula10 - Array\obj\Debug\Aula10 - Array.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula10 - Array\Aula10 - Array\obj\Debug\Aula10 - Array.pdb
