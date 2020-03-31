@@ -1,0 +1,9 @@
+C:\Users\andrea.viana\source\repos\Aula16 - botões\Aula16 - botões\bin\Debug\Aula16 - botões.exe.config
+C:\Users\andrea.viana\source\repos\Aula16 - botões\Aula16 - botões\bin\Debug\Aula16 - botões.exe
+C:\Users\andrea.viana\source\repos\Aula16 - botões\Aula16 - botões\bin\Debug\Aula16 - botões.pdb
+C:\Users\andrea.viana\source\repos\Aula16 - botões\Aula16 - botões\obj\Debug\Aula16___botões.Form1.resources
+C:\Users\andrea.viana\source\repos\Aula16 - botões\Aula16 - botões\obj\Debug\Aula16___botões.Properties.Resources.resources
+C:\Users\andrea.viana\source\repos\Aula16 - botões\Aula16 - botões\obj\Debug\Aula16 - botões.csproj.GenerateResource.cache
+C:\Users\andrea.viana\source\repos\Aula16 - botões\Aula16 - botões\obj\Debug\Aula16 - botões.csproj.CoreCompileInputs.cache
+C:\Users\andrea.viana\source\repos\Aula16 - botões\Aula16 - botões\obj\Debug\Aula16 - botões.exe
+C:\Users\andrea.viana\source\repos\Aula16 - botões\Aula16 - botões\obj\Debug\Aula16 - botões.pdb
