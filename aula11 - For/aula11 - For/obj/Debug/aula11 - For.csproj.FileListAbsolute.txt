@@ -1,0 +1,6 @@
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\aula11 - For\aula11 - For\bin\Debug\aula11 - For.exe.config
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\aula11 - For\aula11 - For\bin\Debug\aula11 - For.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\aula11 - For\aula11 - For\bin\Debug\aula11 - For.pdb
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\aula11 - For\aula11 - For\obj\Debug\aula11 - For.csproj.CoreCompileInputs.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\aula11 - For\aula11 - For\obj\Debug\aula11 - For.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\aula11 - For\aula11 - For\obj\Debug\aula11 - For.pdb
