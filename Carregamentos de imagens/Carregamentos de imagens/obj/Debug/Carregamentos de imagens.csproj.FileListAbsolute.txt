@@ -1,0 +1,10 @@
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\bin\Debug\Carregamentos de imagens.exe.config
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\bin\Debug\Carregamentos de imagens.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\bin\Debug\Carregamentos de imagens.pdb
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\obj\Debug\Carregamentos de imagens.csprojAssemblyReference.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\obj\Debug\Carregamentos_de_imagens.Properties.Resources.resources
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\obj\Debug\Carregamentos de imagens.csproj.GenerateResource.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\obj\Debug\Carregamentos de imagens.csproj.CoreCompileInputs.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\obj\Debug\Carregamentos de imagens.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\obj\Debug\Carregamentos de imagens.pdb
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Carregamentos de imagens\Carregamentos de imagens\obj\Debug\Carregamentos_de_imagens.Form1.resources
