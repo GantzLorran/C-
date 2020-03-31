@@ -1,0 +1,7 @@
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula9 - While\Aula9 - While\bin\Debug\Aula9 - While.exe.config
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula9 - While\Aula9 - While\bin\Debug\Aula9 - While.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula9 - While\Aula9 - While\bin\Debug\Aula9 - While.pdb
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula9 - While\Aula9 - While\obj\Debug\Aula9 - While.csprojAssemblyReference.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula9 - While\Aula9 - While\obj\Debug\Aula9 - While.csproj.CoreCompileInputs.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula9 - While\Aula9 - While\obj\Debug\Aula9 - While.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula9 - While\Aula9 - While\obj\Debug\Aula9 - While.pdb

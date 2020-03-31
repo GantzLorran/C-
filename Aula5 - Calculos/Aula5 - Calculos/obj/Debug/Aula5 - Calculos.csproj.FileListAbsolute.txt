@@ -1,0 +1,7 @@
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula5 - Calculos\Aula5 - Calculos\bin\Debug\Aula5 - Calculos.exe.config
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula5 - Calculos\Aula5 - Calculos\bin\Debug\Aula5 - Calculos.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula5 - Calculos\Aula5 - Calculos\bin\Debug\Aula5 - Calculos.pdb
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula5 - Calculos\Aula5 - Calculos\obj\Debug\Aula5 - Calculos.csprojAssemblyReference.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula5 - Calculos\Aula5 - Calculos\obj\Debug\Aula5 - Calculos.csproj.CoreCompileInputs.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula5 - Calculos\Aula5 - Calculos\obj\Debug\Aula5 - Calculos.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\Aula5 - Calculos\Aula5 - Calculos\obj\Debug\Aula5 - Calculos.pdb

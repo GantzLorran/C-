@@ -1,0 +1,10 @@
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\bin\Debug\CalculadoraDinamica.exe.config
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\bin\Debug\CalculadoraDinamica.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\bin\Debug\CalculadoraDinamica.pdb
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\obj\Debug\CalculadoraDinamica.csprojAssemblyReference.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\obj\Debug\CalculadoraDinamica.Form1.resources
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\obj\Debug\CalculadoraDinamica.Properties.Resources.resources
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\obj\Debug\CalculadoraDinamica.csproj.GenerateResource.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\obj\Debug\CalculadoraDinamica.csproj.CoreCompileInputs.cache
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\obj\Debug\CalculadoraDinamica.exe
+C:\Users\andrea.viana\Desktop\Lorran KnockOut JS\C#\CalculadoraDinamica\CalculadoraDinamica\obj\Debug\CalculadoraDinamica.pdb
