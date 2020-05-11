@@ -1,0 +1,9 @@
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Classes_POO1\bin\Debug\Classes_POO1.exe.config
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Classes_POO1\bin\Debug\Classes_POO1.exe
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Classes_POO1\bin\Debug\Classes_POO1.pdb
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Classes_POO1\obj\Debug\Classes_POO1.csprojAssemblyReference.cache
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Classes_POO1\obj\Debug\Classes_POO1.Form1.resources
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Classes_POO1\obj\Debug\Classes_POO1.Properties.Resources.resources
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Classes_POO1\obj\Debug\Classes_POO1.csproj.GenerateResource.cache
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Classes_POO1\obj\Debug\Classes_POO1.exe
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Classes_POO1\obj\Debug\Classes_POO1.pdb

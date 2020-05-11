@@ -1,0 +1,9 @@
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Funcionario\bin\Debug\Funcionario.exe.config
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Funcionario\bin\Debug\Funcionario.exe
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Funcionario\bin\Debug\Funcionario.pdb
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Funcionario\obj\Debug\Funcionario.csprojAssemblyReference.cache
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Funcionario\obj\Debug\Funcionario.Form1.resources
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Funcionario\obj\Debug\Funcionario.Properties.Resources.resources
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Funcionario\obj\Debug\Funcionario.csproj.GenerateResource.cache
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Funcionario\obj\Debug\Funcionario.exe
+C:\Users\Positivo\Desktop\C# curso\Classes_POO1\Funcionario\obj\Debug\Funcionario.pdb
